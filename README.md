@@ -9,6 +9,10 @@ Main Steps
 Here are the main steps. We'll go over each of these in more detail on the pages that follow.
 
 1-Read project listings or provide your own.
+
 2-Write an initial expression of interest message to a client.
+
 3-Set up a project management process, create a Trello board with outlined project milestones.
+
 4-Invoice the client by using a provided invoicing template and select payment option
+
